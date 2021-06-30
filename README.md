@@ -1,2 +1,2 @@
-# UG-Shop
-E Commerce App
+# UGShop
+E-commerce app
